@@ -1,0 +1,10 @@
+C:\Users\40757\source\repos\aretet\bin\Debug\aretet.exe.config
+C:\Users\40757\source\repos\aretet\bin\Debug\aretet.exe
+C:\Users\40757\source\repos\aretet\bin\Debug\aretet.pdb
+C:\Users\40757\source\repos\aretet\obj\Debug\aretet.csproj.AssemblyReference.cache
+C:\Users\40757\source\repos\aretet\obj\Debug\aretet.Form1.resources
+C:\Users\40757\source\repos\aretet\obj\Debug\aretet.Properties.Resources.resources
+C:\Users\40757\source\repos\aretet\obj\Debug\aretet.csproj.GenerateResource.cache
+C:\Users\40757\source\repos\aretet\obj\Debug\aretet.csproj.CoreCompileInputs.cache
+C:\Users\40757\source\repos\aretet\obj\Debug\aretet.exe
+C:\Users\40757\source\repos\aretet\obj\Debug\aretet.pdb
